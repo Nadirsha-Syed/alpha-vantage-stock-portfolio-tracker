@@ -28,14 +28,14 @@ pip install alpha_vantage
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/alpha-vantage-stock-portfolio-tracker.git
+git clone https://github.com/Nadirsha-Syed/alpha-vantage-stock-portfolio-tracker.git
 cd alpha-vantage-stock-portfolio-tracker
 ```
 
 2. Open `tracker.py` and replace:
 
 ```python
-api_key = "YOUR_API_KEY"
+api_key = "VVCFI748SNEA9Z0E"
 ```
 
 with your actual Alpha Vantage API key.
@@ -48,42 +48,10 @@ Run the application:
 python tracker.py
 ```
 
-Follow the on-screen menu:
+## Preview
+![Screenshot 2025-05-16 230939](https://github.com/user-attachments/assets/897db1e8-acae-492e-a32e-e23e990edd48)
 
-```
-1. Add Stock
-2. Remove Stock
-3. View Portfolio
-4. Exit
-```
-
-### Example
-
-```
-Enter stock symbol (e.g., AAPL): AAPL
-Enter number of shares: 100
-Enter purchase price: 10
-```
-
-### Sample Output
-
-```
---- Portfolio Summary ---
-AAPL: 100.0 shares
-  Purchase Price: $10.00
-  Current Price:  $211.45
-  Market Value:   $21145.00
-  Gain/Loss:      $20145.00
-
-Total Portfolio Value: $21145.00
-Total Gain/Loss: $20145.00
-Performance: 2014.50%
-```
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-[Your Name](https://github.com/your-username)
+Nadirsha-Syed(https://github.com/Nadirsha-Syed)
