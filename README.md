@@ -54,4 +54,7 @@ python tracker.py
 
 ## 👤 Author
 
-Nadirsha-Syed(https://github.com/Nadirsha-Syed)
+If you have any questions or feedback, feel free to reach out:
+- Email: nadirshasyed835@gmail.com  
+- GitHub: Nadirsha-Syed(https://github.com/Nadirsha-Syed)
+
